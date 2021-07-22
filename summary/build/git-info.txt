@@ -1,2 +1,0 @@
-\gdef\GITHash{1d0084a}
-\gdef\GITDate{2020-08-05}
