@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 \gdef\GITHash{f8c330b}
+=======
+\gdef\GITHash{c28b261}
+>>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
 \gdef\GITDate{2021-07-22}
