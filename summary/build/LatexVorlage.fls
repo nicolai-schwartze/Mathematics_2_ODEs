@@ -1,14 +1,20 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 PWD C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary
 INPUT C:\Users\Nicolai\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
 INPUT LatexVorlage.tex
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.log
 =======
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 PWD C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary
 INPUT C:\Users\Nicolai\AppData\Local\MiKTeX\2.9\miktex\data\le\pdftex\pdflatex.fmt
 INPUT LatexVorlage.tex
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.log
+<<<<<<< HEAD
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT sty\overallDefines.sty
 INPUT sty\overallDefines.sty
 INPUT build\git-info.txt
@@ -354,10 +360,14 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\fronten
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\libraries\pgflibraryfadings.code.tex
 <<<<<<< HEAD
+<<<<<<< HEAD
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.pdf
 =======
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.pdf
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.pdf
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfgantt\pgfgantt.sty
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pgfgantt\pgfgantt.sty
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibraryarrows.code.tex
@@ -749,6 +759,7 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\media9\pdfbas
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ocgx2\ocgbase.sty
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\ocgx2\ocgbase.sty
 <<<<<<< HEAD
+<<<<<<< HEAD
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.glo
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.acn
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.syg
@@ -758,6 +769,8 @@ INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\Latex
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.aux
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.aux
 =======
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.glo
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.acn
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.syg
@@ -766,7 +779,10 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyperref\puen
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.aux
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.aux
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.aux
+<<<<<<< HEAD
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\mkii\supp-pdf.mkii
@@ -784,16 +800,21 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\biblatex\lbx\english.lbx
 <<<<<<< HEAD
+<<<<<<< HEAD
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.bcf
 =======
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.bcf
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.bcf
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\stringenc\se-pdfdoc.def
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\stringenc\se-pdfdoc.def
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\stringenc\se-pdfdoc.def
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\stringenc\se-utf8.def
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\stringenc\se-utf8.def
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\generic\stringenc\se-utf8.def
+<<<<<<< HEAD
 <<<<<<< HEAD
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.out
@@ -803,6 +824,8 @@ INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\Latex
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 =======
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.out
@@ -810,7 +833,10 @@ INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\s
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.out
+<<<<<<< HEAD
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bookmark.sty
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bkm-pdftex.def
@@ -818,12 +844,17 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\bookmark\bkm-
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\translator\translator-basic-dictionary-English.dict
 <<<<<<< HEAD
+<<<<<<< HEAD
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
 =======
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
+INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmr8.tfm
@@ -875,10 +906,14 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\public\cm\cmt
 INPUT util\Acronym.tex
 INPUT util\Acronym.tex
 <<<<<<< HEAD
+<<<<<<< HEAD
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
 =======
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.glsdefs
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\eccc1095.tfm
 INPUT img\TitlePage\fhvLogo_neu.eps
 INPUT .\img\TitlePage\fhvLogo_neu.eps
@@ -894,6 +929,7 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\e
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecxc2488.tfm
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\eccc1440.tfm
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\ecxc1095.tfm
+<<<<<<< HEAD
 <<<<<<< HEAD
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
@@ -913,6 +949,8 @@ OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\Late
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 =======
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 INPUT C:\Users\Nicolai\AppData\Local\MiKTeX\2.9\pdftex\config\pdftex.map
@@ -930,7 +968,10 @@ INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\tfm\jknappen\ec\e
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
+<<<<<<< HEAD
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT tex\ODE_n_1.tex
 INPUT tex\ODE_n_1.tex
 INPUT tex\ODE_n_1.tex
@@ -983,6 +1024,7 @@ INPUT tex\ODE_n_n.tex
 INPUT tex\ODE_n_n.tex
 INPUT tex\ODE_n_n.tex
 <<<<<<< HEAD
+<<<<<<< HEAD
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
@@ -995,6 +1037,8 @@ INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\Latex
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.run.xml
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorlage.run.xml
 =======
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.mw
@@ -1006,7 +1050,10 @@ INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\s
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.out
 INPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.run.xml
 OUTPUT C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summary\build\LatexVorlage.run.xml
+<<<<<<< HEAD
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\enc\dvips\cm-super\cm-super-t1.enc
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\fonts\type1\public\amsfonts\cm\cmex10.pfb

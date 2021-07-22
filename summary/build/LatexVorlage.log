@@ -1,8 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.3)  22 JUL 2021 13:43
 =======
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.3)  22 JUL 2021 10:55
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.3)  22 JUL 2021 11:01
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 entering extended mode
 **LatexVorlage.tex LatexVorlage.tex
 (LatexVorlage.tex
@@ -3019,12 +3023,17 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.aux)
 =======
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.aux)
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.aux)
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 \openout1 = `LatexVorlage.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
@@ -3194,16 +3203,22 @@ LaTeX Info: Redefining \pageref on input line 49.
 LaTeX Info: Redefining \nameref on input line 49.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.out)
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.out)
 =======
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.out)
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.out)
+<<<<<<< HEAD
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 \@outlinefile=\write25
 \openout8 = `LatexVorlage.out'.
 
@@ -3234,12 +3249,17 @@ lator-basic-dictionary-English.dict"
 Dictionary: translator-basic-dictionary, Language: English 
 )
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.glsdefs)
 =======
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.glsdefs)
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.glsdefs)
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 ("C:\Users\Nicolai\AppData\Local\Programs\MiKTeX 2.9\tex/latex/siunitx\siunitx-
 abbreviations.cfg"
 File: siunitx-abbreviations.cfg 2017/11/26 v2.7k siunitx: Abbreviated units
@@ -3351,12 +3371,17 @@ Package pdftex.def Info: ./img/TitlePage/fhvLogo_neu-eps-converted-to.pdf  used
 {C:/Users/Nicolai/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./img/Tit
 lePage/fhvLogo_neu-eps-converted-to.pdf>]
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.mw)
 =======
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.mw)
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.mw)
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 \openout3 = `LatexVorlage.mw'.
 
 \openout10 = `LatexVorlage.ist'.
@@ -3366,12 +3391,17 @@ Package tocbasic Info: character protrusion at toc deactivated on input line 12
 0.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.toc
 =======
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.toc
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.toc
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 Package cleveref Info: loaded `english' language definitions on input line 3.
 Package tocbasic Info: Using my definition of `\numberline' on input line 4.
 Package tocbasic Info: Using my definition of `\numberline' on input line 5.
@@ -3397,12 +3427,17 @@ Package tocbasic Info: Using my definition of `\numberline' on input line 17.
 
 ]
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.mw)
 =======
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.mw)
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.mw)
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 \openout3 = `LatexVorlage.mw'.
 
  (tex/ODE_n_1.tex
@@ -3482,12 +3517,17 @@ This document will not have a glossary.
 
 [1]
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.mw)
 =======
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.mw)
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.mw)
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 \openout3 = `LatexVorlage.mw'.
 
 Package atenddvi Info: Last page = 4.
@@ -3505,17 +3545,23 @@ runsystem(makeindex -s LatexVorlage.ist -t LatexVorlage.slg -o LatexVorlage.syi
 
 ]
 <<<<<<< HEAD
+<<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.mw)
 =======
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.mw)
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.mw)
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 \openout3 = `LatexVorlage.mw'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 122.
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 (C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summary\build\LatexVorl
 age.aux
@@ -3523,6 +3569,10 @@ age.aux
 (C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
 ry\build\LatexVorlage.aux
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+(C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathematics_2_ODEs\summa
+ry\build\LatexVorlage.aux
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 Package cleveref Info: loaded `english' language definitions on input line 47.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
@@ -3540,10 +3590,14 @@ Package logreq Info: Writing requests to 'LatexVorlage.run.xml'.
 Here is how much of TeX's memory you used:
  98293 strings out of 492442
 <<<<<<< HEAD
+<<<<<<< HEAD
  2190110 string characters out of 3118919
 =======
  2190938 string characters out of 3118919
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+ 2190938 string characters out of 3118919
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
  3155748 words of memory out of 5000000
  101157 multiletter control sequences out of 15000+200000
  562150 words of font info for 136 fonts, out of 3000000 for 9000
@@ -3574,12 +3628,17 @@ pe1/public/cm-super/sfsl1095.pfb><C:/Users/Nicolai/AppData/Local/Programs/MiKTe
 X 2.9/fonts/type1/public/cm-super/sfxc1095.pfb><C:/Users/Nicolai/AppData/Local/
 Programs/MiKTeX 2.9/fonts/type1/public/cm-super/sfxc2488.pfb>
 <<<<<<< HEAD
+<<<<<<< HEAD
 Output written on C:\Users\Nicolai\OneDrive\Documents\Mathematics_2_ODEs\summar
 y\build\LatexVorlage.pdf (4 pages, 293385 bytes).
 =======
 Output written on C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathema
 tics_2_ODEs\summary\build\LatexVorlage.pdf (4 pages, 293385 bytes).
 >>>>>>> 3116cd4 (fixed .gitignore folder for the 2nd time)
+=======
+Output written on C:\Users\Nicolai\OneDrive\Documents\Mathematic_2_ODEs\Mathema
+tics_2_ODEs\summary\build\LatexVorlage.pdf (4 pages, 293385 bytes).
+>>>>>>> 461e374 (fixed .gitignore for the 5th time)
 PDF statistics:
  265 PDF objects out of 1000 (max. 8388607)
  218 compressed objects within 3 object streams
